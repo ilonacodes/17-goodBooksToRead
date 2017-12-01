@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.title {
+    text-align: center;
+    font-family: monospace;
+    font-size: 32px;
+    font-weight: 600;
+    margin-bottom: 5%;
+}
+
+.container {
+    height: 600px;
+    padding: 1rem;
+}
+
+
+.cover a {
+    text-decoration: none;
+    outline: none;
+
+}
+
+.cover img {
+    display: block;
+    margin: auto;
+    width: 260px;
+    height: 360px;
+}
+
+.controls {
+    display: block;
+    text-align: center;
+    font-size: 48px;
+    margin-top: 5%;
+    font-weight: 500;
+}
